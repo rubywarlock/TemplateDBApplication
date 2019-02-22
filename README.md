@@ -22,7 +22,7 @@
    Example:
 
    ```
-   # app/models/movie.rb
+   # app/models/template.rb
    #
    class ModelName < ActiveRecord::Base
      validates :title, presence: true
