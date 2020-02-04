@@ -1,3 +1,5 @@
+## A simple ruby template application with the ability to use a Database.
+
 ### How to use.
 
 1. #### Create DB
